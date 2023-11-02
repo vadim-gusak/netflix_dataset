@@ -10,6 +10,7 @@ packages = [{include = "netflix_dataset"}]
 python = "^3.11"
 pandas = "^2.0.3"
 jupyter = "^1.0.0"
+clickhouse-connect = "^0.6.18"
 
 
 [build-system]
